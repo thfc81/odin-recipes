@@ -1,0 +1,13 @@
+h1, h2, h3 {
+    color: #484747;
+}
+
+p, ul, ol {
+    color: #878484;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bgcolor {
+    background-color: #e8e5e5;
+    text-align: center;
+}
